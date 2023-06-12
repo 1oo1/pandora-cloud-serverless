@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from os import getenv
-
 from pandora_cloud.server import ChatBot
 
 _port = getenv('PORT')
